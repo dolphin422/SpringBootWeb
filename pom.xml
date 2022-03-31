@@ -27,7 +27,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <java.version>1.8</java.version>
         <!--spring-boot-parent版本号，通过spring-boot管理其他第三方依赖版本-->
-        <springboot.version>2.1.0.RELEASE</springboot.version>
+        <springboot.version>2.5.12</springboot.version>
         <!--mysql-->
         <mysql.connector.version>5.1.38</mysql.connector.version>
         <commons.lang3.version>3.3.2</commons.lang3.version>
